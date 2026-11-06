@@ -26,7 +26,7 @@ website: https://kbischools.com.ng
 | --- | --- | --- | --- |
 | 🌐 School site | KBI's public GitHub Pages presence | [Visit →](https://kbischool.github.io/) | [Code →](https://github.com/kbischool/kbischool.github.io) |
 | 💳 School Fee Payment Portal ⚠️ | Private school-fee lookup portal for parents, by unique family code. Contains real student/family financial data — kept private, not linked publicly | — (private) | [Code →](https://github.com/kbischool/school-fee-portal) |
-| 🗂️ Student Records System ⚠️ | Private, installable (PWA) student records & billing app built from the school's FEE/INVOICE workbooks. Contains real student data — kept private, not linked publicly | — (private) | [Code →](https://github.com/kbischool/kbis-records) |
+| 🗂️ Student Records System ⚠️ | Private, installable (PWA) student records & billing app built from the school's FEE/INVOICE workbooks. Contains real student data — kept private, not linked publicly | — (private) | [Code →](https://github.com/kbischool/kbis-records-app) |
 
 ---
 
